@@ -13,4 +13,9 @@ for item in 1 2 3 4
 do
   echo "I am item ${i}"
 done
+
+while read line
+do
+  echo bob
+done < /etc/fstab
 ```
