@@ -18,4 +18,13 @@ while read line
 do
   echo bob
 done < /etc/fstab
+
+bob()
+{
+	echo "This is some stuff"
+	echo "Doing it here"
+}
+
+bob
 ```
+
