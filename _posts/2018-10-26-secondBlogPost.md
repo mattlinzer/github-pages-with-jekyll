@@ -1,5 +1,5 @@
 ---
-title: "Secon sample blog"
+title: "Second sample blog"
 date: 2018-10-26
 ---
 
