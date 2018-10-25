@@ -6,7 +6,7 @@ puts markdown.to_html
 ```
 
 # Shell example
-```Shell
+```sh
 #!/bin/ksh
 
 for item in 1 2 3 4 
