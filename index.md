@@ -1,3 +1,8 @@
+
+# My fancy header
+This is the first page.  Adding some text here.. 
+
+
 # Ruby example
 ```ruby
 require 'redcarpet'
@@ -22,7 +27,7 @@ done < /etc/fstab
 bob()
 {
 	echo "This is some stuff"
-	echo "Doing it here"
+	echo Doing it here"
 }
 
 bob
